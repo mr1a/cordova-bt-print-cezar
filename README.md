@@ -1,0 +1,1 @@
+# cordova-bt-print-cezar
